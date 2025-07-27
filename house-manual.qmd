@@ -1,6 +1,5 @@
 ---
 title: "House Manual"
-institute: "8975 S Indian Hills Rd, Montague, MI 49437"
 format:
   html:
     theme: cosmo
