@@ -7,6 +7,7 @@ format:
     toc: true
     toc-depth: 2
     number-sections: false
+    output-file: index.html
   pdf:
     documentclass: article
     toc: false
@@ -127,7 +128,7 @@ Do not park in front of the front deck, as this area covers the septic drain fie
 ---
 
 ### Supplies:
-Cleaning supplies are under the master bath sink. Plungers are under both bathroom sinks. Broom and mop are in the entry closet. Extra toilet paper is in bathroom sinks or the kitchen pantry or master bedroom closet.
+Cleaning supplies are under the master bath sink. Plungers are under both bathroom sinks. Broom and mop are in the entry closet. Extra toilet paper is under bathroom sinks or the kitchen pantry or master bedroom closet.
 
 Basic condiments and spices are in the kitchen pantry. Operate under a “use and replace” policy — feel free to contribute something for future guests.
 
@@ -192,6 +193,12 @@ Brochures are in the folder, but here are a few personal recommendations:
 - **Hanson Hill Restaurant (Whitehall, 19 min)** – Casual American dining with lake views. Highlights include Great Lakes Perch, Pasta Bayou with shrimp and sausage, and a 130-day dry-aged Prime Ribeye. Vegetarian options like Mushroom Spinach Ravioli and a Sesame Ginger Stir Fry are also available.
 - **Old Channel Inn (Montague, 14 min)** – Laid-back lakeside tavern with burgers, local fish, and a casual atmosphere. A reliable spot after a round at Old Channel Trail Golf Course.
 
+#### Local Pies & Baked Goods:
+
+- **The Garden Shed (Montague)** – A charming seasonal farm stand right around the corner offering homemade pies, local produce, jams, and more. Call ahead to ensure the pie you want is available. Just 5 minutes away! 📞 (231) 894-4922
+
+- **Woodland Farm Market & Bakery (Shelby)** – A step back in time with fresh-baked pies, donuts, cinnamon rolls, and seasonal fruit. 📞 (231) 861-2834
+
 #### Breweries & Wineries:
 - **Fetch Brewing Company (Whitehall, 18 min)** – Fantastic local brewery inside a restored bank — the vault’s still there. They don’t serve food, but you can bring takeout. A couple growlers are above the fridge if you want to bring some home.
 - **Oceana Vineyard & Winery (New Era, 13 min)** – Small boutique winery with outdoor seating overlooking the vineyard. Great variety from dry to sweet.
@@ -217,6 +224,10 @@ Brochures are in the folder, but here are a few personal recommendations:
 - **Otto Nature Preserve (New Era, 10 min)** – Easy trails through woods and wetlands. Great for birding and peaceful walks.
 - **Flower Creek Dunes Nature Preserve (Montague, 8 min)** – Quiet, scenic preserve accessible by walking north along the beach from Meinert County Park, or by a longer beach walk south from the cottage (requires fording Flower Creek — feasibility depends on water levels and will generally be thigh high). The trail runs along the top of the dune and includes a loop with a scenic overlook of the Flower Creek wetlands.
 - **Clear Springs Nature Preserve (Shelby, 12 min)** – Boardwalk paths and forest trails. Great for families.
+- **Hart-Montague Trail State Park** – A 22-mile paved trail connecting Hart and Montague, great for biking, walking, and running. Smooth and shaded with scenic farmland and forest views along the route. Access in Montague is near the old train depot.  
+  **Bike Rentals:**
+    - *WaterDog Outfitters (Whitehall)* – Located near the southern end of the trail. Offers bike and e-bike rentals, plus helmets and accessories.
+    - *Country Dairy (New Era)* – Offers rentals along the trail. Great place to combine a ride with ice cream or lunch.
 
 #### Shopping:
 - **Claybanks Pottery (New Era, 6 min)** – Local pottery studio with beautiful handmade stoneware.
