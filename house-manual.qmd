@@ -1,0 +1,236 @@
+---
+title: "House Manual"
+institute: "8975 S Indian Hills Rd, Montague, MI 49437"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    number-sections: false
+  pdf:
+    documentclass: article
+    toc: false
+    number-sections: false
+    mainfont: "Helvetica Neue"
+
+---
+
+::: {.text-center}
+
+\begin{center}
+\textbf{Property Address:}\\
+8975 S Indian Hills Rd\\
+Montague, MI 49437
+\end{center}
+
+:::
+
+---
+
+Welcome to my home! I purchased this cottage in 2017 to spend more time on Lake Michigan and to create memories with family and friends. I enjoy all seasons here: swimming and sun in the summer, changing leaves and warm breezes in the fall, watching ice formations and sunsets by the fire in winter, and blooming flowers and roadside asparagus in the spring. I’m now happy to share this space with you.
+
+---
+
+
+Don’t hesitate to contact me via the Airbnb app (preferred) or phone:
+
+
+::: {.text-center}
+
+\begin{center}
+\textbf{David Van Dyke}\\
+612-205-3283\\
+davandyke@icloud.com
+\end{center}
+
+:::
+
+---
+
+\newpage
+
+### House Rules:
+- Limit 6 guests (including day-visitors) unless pre-approved.
+- No smoking
+- No fireworks
+- No beach fires
+- Pets only as pre-approved with pet fee
+
+---
+
+### Check-out Instructions:
+1. Check-out time is 11 a.m. (may be flexible in the off-season).
+2. Place any dirty dishes in the dishwasher and start it. Hand-wash anything that doesn’t fit.
+3. Put trash outside in the trash can next to the shed.
+4. Place used towels in the basket between the washer and dryer.
+5. Ensure the slider door and front door are closed and locked.
+6. Close windows and set air conditioning to 75°F in summer or heat to 60°F in winter.
+7. Let me know if anything needs attention.
+
+---
+
+### Internet and Cellular Signal:
+**Wifi SSID:** lake_effect  
+**Wifi password:** WhitePine
+
+Cellular signal is often poor in this area, so it’s a good idea to enable **Wi-Fi Calling** before your stay:
+
+- **iPhone**
+  1. Open the **Settings** app.
+  2. Scroll down and tap **Apps**.
+  3. Tap **Phone** > **Wi-Fi Calling**.
+  4. Turn on **Wi-Fi Calling on This iPhone**.
+  5. You may be prompted to enter or confirm your address for emergency services.
+     _(On some devices, you may see **Phone** listed directly in Settings.)_
+
+- **Android**
+  - Go to **Settings** > **Network & Internet** > **Mobile Network** > **Wi-Fi Calling**.  
+    _(Menu names may vary slightly by device.)_
+---
+
+### Thermostat:
+Use the touch-screen slider on the right of the thermostat to adjust the temperature. The system is optimized to control humidity and may cool up to 2°F below the set point if indoor humidity is above 60%. If you prefer a warmer temperature, just raise the set point a degree or two.
+
+---
+
+### Trash:
+Kitchen trash bags are in the left pantry cabinet on the wall behind the sink. Place full bags in the outside can next to the shed. If the can is nearly full, please take it to the road by the mailbox Wednesday morning (or the night before) and bring it back later that day. There is no recycling service.
+
+---
+
+### Grills:
+You may use the gas grill, charcoal grill, and smoker. Clean the grill after each use. Grill mitts, rib racks, and a digital meat thermometer are in the entry closet. Smoker grates can be hand washed or placed in the dishwasher, and the water basin should be sprayed out with the hose.
+
+A spare propane tank is between the two charcoal grills.
+
+::: {.callout-note}
+
+## For local meats check out:
+- **Country Dairy** – 3476 S 80th Ave, New Era, MI
+- **Mac’s Meats & Country Store** – 8730 S 88th Ave, Rothbury, MI
+:::
+
+---
+
+### Septic and Well:
+- Don’t flush wipes or non-toilet paper items (even if labeled flushable), and avoid sending food down the drain. 
+- The small faucet at the kitchen sink dispenses reverse osmosis filtered water — great for drinking, coffee, and cooking.
+
+::: {.callout-warning}
+
+## Please park to the side of the house
+
+Do not park in front of the front deck, as this area covers the septic drain field. Driving or parking on the drain field can damage the system.
+
+:::
+
+---
+
+### Supplies:
+Cleaning supplies are under the master bath sink. Plungers are under both bathroom sinks. Broom and mop are in the entry closet. Extra toilet paper is in bathroom sinks or the kitchen pantry or master bedroom closet.
+
+Basic condiments and spices are in the kitchen pantry. Operate under a “use and replace” policy — feel free to contribute something for future guests.
+
+---
+
+### Safety:
+A fire extinguisher is in the entry closet. Each bedroom has smoke and carbon monoxide detectors. Spare 9V batteries are in the kitchen utensil drawer.
+
+Lake Michigan can be dangerous, especially in high waves. Winter ice formations are hazardous — do not walk on them.
+
+---
+
+### Wood Stove / Fire Ring:
+Firewood is available near the blue shed. An axe and fire starter are in the entry closet.
+
+For the wood stove:
+- Pull the top knob out and bottom knob in to start.
+- Use small kindling first.
+- Once burning well, push the top knob in and adjust the bottom knob as needed.
+- After use, clean out ashes into the **metal container** next to the stove (once fully cooled).
+
+For the fire ring in the yard:
+- Only use if no burn ban is active. Check: [Michigan DNR Burn Permits: www2.dnr.state.mi.us/BurnPermits/Search.aspx?OCEANA](https://www2.dnr.state.mi.us/BurnPermits/Search.aspx?OCEANA)
+- Don’t use on dry, windy days.
+
+---
+
+### Bathrooms:
+Use the fan in the main bathroom during showers. The master bathroom fan runs continuously as part of the home’s ventilation system — it's a code requirement for continuous air exchange in energy-efficient homes. The thermostat for the heated tile floor is on the wall to the left of the bathroom door — turn it down at check-out.
+
+---
+
+### TV & Music:
+The main TV includes **YouTube TV** and **Apple TV+**. You're welcome to log into your own streaming accounts. The TV can swivel from the wall — please return it to its position before check-out.
+
+The stereo receiver supports **Bluetooth** and **Apple AirPlay** — use the "Net" button on the Onkyo remote to connect.
+
+---
+
+### Generator:
+In a power outage, a gas generator can power everything except the air conditioning. Contact me for instructions. Outage status: Great Lakes Energy [Storm Central: gtlakes.com/power-outages/](https://www.gtlakes.com/power-outages/) site.
+
+---
+
+\newpage
+
+### Area Guide:
+Brochures are in the folder, but here are a few personal recommendations:
+
+#### Restaurants:
+::: {.callout-tip}
+## Top Picks
+- **Oh Brother’s (Montague, 14 min)** – BBQ, pizza, burgers, bar food. They’ve delivered in the past — call to confirm.
+- **Farmhaus Kitchen & Market (Shelby, 20 min)** – Stylish market café with locally sourced meals, craft beer, and artisan products.
+- **La Probadita (Hart, 25 min)** – My favorite Mexican spot — hidden in the back of a Mexican grocery store. Take-out only. The La Probadita Combo is excellent. Kitchen closes early (5 p.m.), and is occasionally closed so call ahead.
+:::
+- **Stony Lake Inn (Shelby, 11 min)** – Neighborhood bar and grill with fried perch, steaks, and broasted chicken to-go.
+- **Rico’s Tamales (Rothbury, 10 min)** – Closest Mexican takeout, known for tamales and tacos.
+- **Pekadill’s (Whitehall, 18 min)** – Great lunch stop with sandwiches and ice cream in a garden setting.
+- **Big John’s Pizza (Whitehall, 17 min)** – Closest pizza option.
+- **Hart Pizza (Hart, 25 min)** – Great pizza with craft brews. Worth the drive.
+- **Hanson Hill Restaurant (Whitehall, 19 min)** – Casual American dining with lake views. Highlights include Great Lakes Perch, Pasta Bayou with shrimp and sausage, and a 130-day dry-aged Prime Ribeye. Vegetarian options like Mushroom Spinach Ravioli and a Sesame Ginger Stir Fry are also available.
+- **Old Channel Inn (Montague, 14 min)** – Laid-back lakeside tavern with burgers, local fish, and a casual atmosphere. A reliable spot after a round at Old Channel Trail Golf Course.
+
+#### Breweries & Wineries:
+- **Fetch Brewing Company (Whitehall, 18 min)** – Fantastic local brewery inside a restored bank — the vault’s still there. They don’t serve food, but you can bring takeout. A couple growlers are above the fridge if you want to bring some home.
+- **Oceana Vineyard & Winery (New Era, 13 min)** – Small boutique winery with outdoor seating overlooking the vineyard. Great variety from dry to sweet.
+- **North Grove Brewers (Montague, 18 min)** – Laid-back atmosphere with a wide tap list, full kitchen, outdoor seating, and live music events.
+- **Sawyer Brewing Company (Montague, 18 min)** – Local brewery with rotating small-batch beers and a cozy, rustic vibe. No kitchen.
+
+#### Family Activities:
+- **Lewis Farms (New Era, 13 min)** – Family-run orchard and farm market with bakery, petting zoo, and seasonal attractions.
+- **Country Dairy (New Era, 16 min)** – Working dairy farm offering tours, sandwiches, ice cream, and a store with milk, cheese, and meats.
+- **Stony Lake Stables** – Horseback riding for all ages.
+- **Jazz U-pick Blueberries (Shelby, 17 min)** – U-pick farm with blueberries, strawberries, raspberries, and flowers.
+- **Happy Mohawk Canoe Livery (Montague, 22 min)** – Canoes, kayaks, tubes for floats on the White River.
+- **Mac Wood’s Dune Rides (Silver Lake, 35 min)** – Classic open-air dune rides — fast, fun, and family-friendly.
+- **Double JJ Resort (Rothbury, 14 min)** – Indoor waterpark, mini-golf, restaurants. (Rothbury, 14 min)** – Indoor waterpark, mini-golf, restaurants.
+
+
+#### Golf:
+- **Benona Shores Golf Course (Shelby)** – 18-hole par 3 and par 4 course through wooded, hilly terrain and apple orchards; perfect for a relaxed and scenic round.
+- **Old Channel Trail Golf Course (Montague)** – 27 holes adjacent to Lake Michigan with a great practice area, including a driving range, putting green, and three practice holes.
+- **Thoroughbred & Grand View at Double JJ Resort (Rothbury)** – Two scenic courses at the Double JJ Resort. Thoroughbred is a championship 18-hole course, while Grand View offers a more relaxed 18-hole experience.
+
+#### Hikes & Nature Walks:
+- **Otto Nature Preserve (New Era, 10 min)** – Easy trails through woods and wetlands. Great for birding and peaceful walks.
+- **Flower Creek Dunes Nature Preserve (Montague, 8 min)** – Quiet, scenic preserve accessible by walking north along the beach from Meinert County Park, or by a longer beach walk south from the cottage (requires fording Flower Creek — feasibility depends on water levels and will generally be thigh high). The trail runs along the top of the dune and includes a loop with a scenic overlook of the Flower Creek wetlands.
+- **Clear Springs Nature Preserve (Shelby, 12 min)** – Boardwalk paths and forest trails. Great for families.
+
+#### Shopping:
+- **Claybanks Pottery (New Era, 6 min)** – Local pottery studio with beautiful handmade stoneware.
+- **Waterdog Outfitters (Montague)** – Outdoor gear store with kayak and bike rentals.
+- **Book Nook & Java Shop (Montague)** – Cozy coffee shop and bookstore.
+- **Downtown Whitehall & Montague** – Galleries, boutiques, and gift shops.
+
+#### Essentials:
+- **Montague Foods** – Best local grocery store.
+- **Walmart (Whitehall)** – Everything you might need. They now deliver groceries to the cottage for a small fee — or free for Walmart Plus subscribers — if you'd rather do your grocery shopping with a laptop and a view.
+- **Dollar Store (Rothbury/Montague)** – Closest for basics.
+
+---
+
+Thanks for reading this guide. If you have any suggestions, feel free to let me know!
+
+— David
