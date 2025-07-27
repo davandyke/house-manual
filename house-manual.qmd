@@ -76,6 +76,9 @@ davandyke@icloud.com
 
 Cellular signal is often poor in this area, so it’s a good idea to enable **Wi-Fi Calling** before your stay:
 
+::: {.callout-tip}
+
+## Activate Wifi Calling
 - **iPhone**
   1. Open the **Settings** app.
   2. Scroll down and tap **Apps**.
@@ -87,6 +90,8 @@ Cellular signal is often poor in this area, so it’s a good idea to enable **Wi
 - **Android**
   - Go to **Settings** > **Network & Internet** > **Mobile Network** > **Wi-Fi Calling**.  
     _(Menu names may vary slightly by device.)_
+:::
+
 ---
 
 ### Thermostat:
@@ -96,20 +101,6 @@ Use the touch-screen slider on the right of the thermostat to adjust the tempera
 
 ### Trash:
 Kitchen trash bags are in the left pantry cabinet on the wall behind the sink. Place full bags in the outside can next to the shed. If the can is nearly full, please take it to the road by the mailbox Wednesday morning (or the night before) and bring it back later that day. There is no recycling service.
-
----
-
-### Grills:
-You may use the gas grill, charcoal grill, and smoker. Clean the grill after each use. Grill mitts, rib racks, and a digital meat thermometer are in the entry closet. Smoker grates can be hand washed or placed in the dishwasher, and the water basin should be sprayed out with the hose.
-
-A spare propane tank is between the two charcoal grills.
-
-::: {.callout-note}
-
-## For local meats check out:
-- **Country Dairy** – 3476 S 80th Ave, New Era, MI
-- **Mac’s Meats & Country Store** – 8730 S 88th Ave, Rothbury, MI
-:::
 
 ---
 
@@ -123,6 +114,20 @@ A spare propane tank is between the two charcoal grills.
 
 Do not park in front of the front deck, as this area covers the septic drain field. Driving or parking on the drain field can damage the system.
 
+:::
+
+---
+
+### Grills:
+You may use the gas grill, charcoal grill, and smoker. Clean the grill after each use. Grill mitts, rib racks, and a digital meat thermometer are in the entry closet. Smoker grates can be hand washed or placed in the dishwasher, and the water basin should be sprayed out with the hose.
+
+A spare propane tank is between the two charcoal grills.
+
+::: {.callout-note}
+
+## For local meats check out:
+- **Country Dairy** – 3476 S 80th Ave, New Era, MI
+- **Mac’s Meats & Country Store** – 8730 S 88th Ave, Rothbury, MI
 :::
 
 ---
